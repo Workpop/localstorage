@@ -1,0 +1,1 @@
+import './localstorage.spec';
